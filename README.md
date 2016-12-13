@@ -1,4 +1,4 @@
-#Update CSS Variables with JavaScript
+#[Update CSS Variables with JavaScript](http://travis.bingo/updateCssVariables/)
 A simple photo filter app that lets the user manipulate several different CSS variables with range input sliders and a color picker. 
 
 * **declaring CSS variables** on the `:root` element so they update everywhere. The syntax for declaring variables is similar to SCSS, instead of `$`, the variable name begins with `--`.
